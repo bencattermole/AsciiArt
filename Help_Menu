@@ -9,6 +9,8 @@ toggle print - Turns On/Off printing
 set size - change the height and width values, enter nothing to
            keep the current value. Can only take in integers
 
+background - change the "background", by default this is "."
+
 quit - exits the application
 
 ++++++++++++++++++++++++++++++++++++

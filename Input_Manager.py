@@ -16,8 +16,8 @@ class Manager:
     def __init__(self):
         self.is_running = True
         self.is_printing = False
-        self.h = 5
-        self.w = 10
+        self.h = 50
+        self.w = 50
         self.bg = "."
 
     def user_command(self, fetched_command):

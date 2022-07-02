@@ -1,0 +1,14 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+--------------------------HELP MENU----------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+help - prints out this menu
+
+toggle print - Turns On/Off printing
+
+set size - change the height and width values, enter nothing to
+           keep the current value. Can only take in integers
+
+quit - exits the application
+
+++++++++++++++++++++++++++++++++++++
